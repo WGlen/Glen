@@ -38,22 +38,22 @@
 </p>
 
 <p align="center">
- <a href="https://alsiam.com" target="blank">
+ <a href="" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
  </a>
  <a href="https://www.youtube.com/@wikkiglen" target="_blank">
   <img src="https://img.shields.io/youtube/channel/subscribers/:wikkiglen"/>
  </a>
- <!-- <a href="https://dev.to/alsiam" target="_blank">
+ <!-- <a href="" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
  </a> -->
  <a href="https://twitter.com/WGlennn" target="_blank">
-  <img src="https://img.shields.io/twitter/follow/:WGlennn" />
+  <img src="https://img.shields.io/twitter/follow/:user" />
  </a>
  <a href="https://www.instagram.com/wglennv_" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
  </a> 
- <a href="https://facebook.com/alsiam.world" target="_blank">
+ <a href="" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
   </a> 
 </p>
