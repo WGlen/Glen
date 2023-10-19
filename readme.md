@@ -42,13 +42,13 @@
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
  </a>
  <a href="https://www.youtube.com/@wikkiglen" target="_blank">
-  <img src="https://img.shields.io/youtube/channel/subscribers/:wikkiglen"/>
+  <img src="https://img.shields.io/youtube/channel/subscribers/:UCfSP4IbxquVrgNO5vkptABA"/>
  </a>
  <!-- <a href="" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
  </a> -->
  <a href="https://twitter.com/WGlennn" target="_blank">
-  <img src="https://img.shields.io/twitter/follow/:user" />
+  <img src="https://img.shields.io/twitter/follow/:@WGlennn" />
  </a>
  <a href="https://www.instagram.com/wglennv_" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
